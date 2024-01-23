@@ -4,8 +4,7 @@ This is a game for practicing multiplication tables. The user will input the pro
 
 ## Built with
 
-React
-Timer uses [react-countdown](https://www.npmjs.com/package/react-countdown) library
+React. Timer uses [react-countdown](https://www.npmjs.com/package/react-countdown) library
 
 ## Getting Started
 
